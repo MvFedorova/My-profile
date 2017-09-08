@@ -1,0 +1,20 @@
+  <!doctype html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>My profile</title>
+    </head>
+    <body> 
+      <left><h1>Maria Fedorova</h1></left>
+      <left><img alt="Это я" width="15%" src="me.jpg"></left>
+      <br/>
+      <h2>Contacts:</h2>
+      Profile <a href=https://vk.com/kim_hid73/>vkontakte</a>
+      <br/>
+      <a href=https://github.com/MvFedorova>GitHub</a>
+      <br/>
+      Телефон: <b>+79091683163</b>
+      <br/>
+      E-mail: <i>Mvfedorova@edu.hse.ru</i>
+    </body>
+  </html>
